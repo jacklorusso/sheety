@@ -1,18 +1,20 @@
-<h1 align="center">
+<h1 align="center" style="margin-bottom: 2rem;">
   <img src="https://github.com/lol-russo/sheety/raw/master/logo.png" alt="sheety" title="sheety" width="200">
   <br>
   sheety
   <br>
+  <br>
 </h1>
-<p align="center" style="font-size: 1.2rem;">Simple CSS-in-JS solution</p>
+
 
 ```
 yarn add sheety
 ```
 
+
 ## Usage
 
-Sheety works with any framework, but this example uses React for demonstration purposes.
+Sheety works with any framework, but this example uses React.
 
 ```jsx
 import React from "react";
