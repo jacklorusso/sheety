@@ -17,8 +17,8 @@ yarn add sheety
 Sheety works with any framework, but this example uses React.
 
 ```jsx
-import React from "react";
-import css from "sheety";
+import React from 'react';
+import css from 'sheety';
 
 const className = css`
   font-size: 6em;
