@@ -40,4 +40,4 @@ export default Title;
 
 `sheety` was bootstrapped following Kyle Hohenberger's article [Writing A CSS-in-JS Library From Scratch](https://medium.com/@tkh44/writing-a-css-in-js-library-from-scratch-96cd23a017b4). It's definitely an interesting exercise for anyone who is interested in CSS-in-JS and wants to learn more.
 
-Looking for a more powerful solution? Check out [emotion](https://github.com/emotion-js/emotion).
+Looking for a more powerful solution? Check out [compiled](https://github.com/atlassian-labs/compiled).
